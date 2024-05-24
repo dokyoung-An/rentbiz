@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"type": "panorama",
+	"external": {
+		"js": [
+			"https://player.vimeo.com/api/player.js"
+		],
+		"css": []
+	},
+	"skin": {
+		"js": "skin.js"
+	},
+	"vrskin": {},
+	"player": {
+		"js": "pano2vr_player.js"
+	},
+	"creationdate": "2024-05-24T03:08:29.056Z",
+	"configuration": "pano.xml",
+	"preview": {
+		"img": "preview.jpg",
+		"width": 640,
+		"height": 480
+	}
+}
